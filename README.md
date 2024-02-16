@@ -4,7 +4,7 @@ As part of The Odin Project
 
 This repository is for the first project: A recipes page.
 
-So far in this project, most of the new things I've learned are to do with git and terminal commands which I never used before.
+So far, going through the main course, most of the new things I've learned are to do with git and terminal commands which I never used before.
 
 I now know how to go from creating a repo in Github to staging commits
 
